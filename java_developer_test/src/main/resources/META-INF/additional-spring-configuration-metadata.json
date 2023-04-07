@@ -1,0 +1,47 @@
+{"properties": [
+  {
+    "name": "server.path.login-api",
+    "type": "java.lang.String",
+    "description": "A description for 'server.path.login-api'"
+  },
+  {
+    "name": "server.path.job-list-api",
+    "type": "java.lang.String",
+    "description": "A description for 'server.path.job-list-api'"
+  },
+  {
+    "name": "server.path.job-detail-api",
+    "type": "java.lang.String",
+    "description": "A description for 'server.path.job-detail-api'"
+  },
+  {
+    "name": "api.job-list-api.url",
+    "type": "java.lang.String",
+    "description": "A description for 'api.job-list-api.url'"
+  },
+  {
+    "name": "api.job-detail-api.url",
+    "type": "java.lang.String",
+    "description": "A description for 'api.job-detail-api.url'"
+  },
+  {
+    "name": "api.timeout",
+    "type": "java.lang.String",
+    "description": "A description for 'api.timeout'"
+  },
+  {
+    "name": "alg",
+    "type": "java.lang.String",
+    "description": "A description for 'alg'"
+  },
+  {
+    "name": "typ",
+    "type": "java.lang.String",
+    "description": "A description for 'typ'"
+  },
+  {
+    "name": "api_secret",
+    "type": "java.lang.String",
+    "description": "A description for 'api_secret'"
+  }
+]}
